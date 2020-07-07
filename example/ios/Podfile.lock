@@ -4,31 +4,37 @@ PODS:
   - Flutter (1.0.0)
   - path_provider (0.0.1):
     - Flutter
+  - path_provider_linux (0.0.1):
+    - Flutter
   - path_provider_macos (0.0.1):
     - Flutter
 
 DEPENDENCIES:
-  - audioplayers (from `/Users/luannico/Projects/audioplayers/ios`)
-  - Flutter (from `/Users/luannico/softwares/flutter/flutter/bin/cache/artifacts/engine/ios`)
-  - path_provider (from `/Users/luannico/softwares/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/ios`)
-  - "path_provider_macos (from `/Users/luannico/softwares/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.2+1/ios`)"
+  - audioplayers (from `/Users/gejianmin/FlutterProduct/audioPlayer/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.11/ios`)
+  - "path_provider_linux (from `/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-0.0.1+2/ios`)"
+  - "path_provider_macos (from `/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+3/ios`)"
 
 EXTERNAL SOURCES:
   audioplayers:
-    :path: "/Users/luannico/Projects/audioplayers/ios"
+    :path: "/Users/gejianmin/FlutterProduct/audioPlayer/ios"
   Flutter:
-    :path: "/Users/luannico/softwares/flutter/flutter/bin/cache/artifacts/engine/ios"
+    :path: Flutter
   path_provider:
-    :path: "/Users/luannico/softwares/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/ios"
+    :path: "/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.11/ios"
+  path_provider_linux:
+    :path: "/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-0.0.1+2/ios"
   path_provider_macos:
-    :path: "/Users/luannico/softwares/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.2+1/ios"
+    :path: "/Users/gejianmin/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+3/ios"
 
 SPEC CHECKSUMS:
-  audioplayers: 84f968cea3f2deab00ec4f8ff53358b3c0b3992c
+  audioplayers: 53f0f30789b10ab2009771c6c79def00980945e4
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
   path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
 
-PODFILE CHECKSUM: 1003743f06ec24ad436e3271b83a8ca2bee2fed4
+PODFILE CHECKSUM: bd3ce3d77c070a26d612596b1a99c2f548ad6af5
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.1
